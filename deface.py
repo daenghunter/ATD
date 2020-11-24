@@ -9,10 +9,9 @@ except ImportError:
 
 banner = """
 
-Github : /Hideyoshi07
-Youtube: Rama ahmed
-Author Ver AOX /official: Ms.ambari
-Github Ms.ambari: /Ranginang67
+Facebook : Brillyan Aditya S
+Github : github.com/daenghunter
+WhatsApp : +17016969696
 
 """
 
